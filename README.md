@@ -38,11 +38,11 @@ This data set comes under classification problem, as the input URL is classified
 * Autoencoder Neural Network
 * Support Vector Machines
 
-All these models are trained on the dataset and evaluation of the model is done with the test dataset. The elaborate details of the models & its training are mentioned in [Phishing Website Detection_Models & Training.ipynb]https://github.com/GSHitesh/Phishing-Website-Detection-by-Machine-Learning-Techniques/blob/main/Phishing%20Website%20Detection_Models%20&%20Training.ipynb)
+All these models are trained on the dataset and evaluation of the model is done with the test dataset. The elaborate details of the models & its training are mentioned in [Phishing Website Detection_Models & Training.ipynb](https://github.com/GSHitesh/Phishing-Website-Detection-by-Machine-Learning-Techniques/blob/main/Phishing%20Website%20Detection_Models%20&%20Training.ipynb)
 
 
 
 ## End Results
-From the obtained results of the above models, XGBoost Classifier has highest model performance of 86.4%. So the model is saved to the file '[XGBoostClassifier.pickle.dat](https://github.com/shreyagopal/Phishing-Website-Detection-by-Machine-Learning-Techniques/blob/master/XGBoostClassifier.pickle.dat)'
+From the obtained results of the above models, XGBoost Classifier has highest model performance of 86.4%. 
 
 
